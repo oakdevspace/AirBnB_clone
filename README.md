@@ -264,19 +264,17 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Olayeye Muideen</summary>
+    <summary>Kabiru Umar</summary>
     <ul>
-    <li><a href="https://www.github.com/muideen7">Github</a></li>
-    <li><a href="https://www.twitter.com/OlayeyeMuideen">Twitter</a></li>
-    <li><a href="mailto:olayeyeayomide2000@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/oakdevspace">Github</a></li>
+    <li><a href="mailto:adermkabeer@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Brian Segem</summary>
+    <summary>Felix Ogundipe</summary>
     <ul>
-    <li><a href="https://www.github.com/97fangz">Github</a></li>
-    <li><a href="https://www.twitter.com/">Twitter</a></li>
-    <li><a href="mailto:briansegem25@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/leksyking">Github</a></li>
+    <li><a href="mailto:gbemilekeogundipe@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
